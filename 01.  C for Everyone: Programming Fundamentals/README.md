@@ -18,6 +18,6 @@ The time estimated time commitment for this course is five hours a week for five
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
- <a href="https://www.coursera.org/account/accomplishments/verify/MFS9SJSPUMZP"><img src="https://user-images.githubusercontent.com/96287101/220608164-aeafcc3b-924e-40c7-81e3-60471c9e3534.jpg height="430"></a>
+ <a href="https://www.coursera.org/account/accomplishments/verify/MFS9SJSPUMZP"><img src="https://user-images.githubusercontent.com/96287101/220608164-aeafcc3b-924e-40c7-81e3-60471c9e3534.jpg" height="430"></a>
 </p>
 
